@@ -92,6 +92,9 @@
                     @{{ mesajj }}
                     mesajdır
                     pc değişiklik
+
+                    ibo
+                
                     </div>
                     
                 </div>
