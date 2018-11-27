@@ -91,7 +91,7 @@
                     <div id="app">
                     @{{ mesajj }}
                     mesajdır
-                    
+                    pc değişiklik
                     </div>
                     
                 </div>
