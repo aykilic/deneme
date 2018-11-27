@@ -21,7 +21,7 @@
                 margin: 0;
             }
 
-            
+
 
             .full-height {
                 height: 100vh;
@@ -90,6 +90,7 @@
                    Vue Laravel
                     <div id="app">
                     @{{ mesajj }}
+                    mesajdır
                     </div>
                     
                 </div>
