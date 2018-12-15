@@ -91,14 +91,10 @@
                     <div id="app">
                     @{{ mesajj }}
                     mesajdır
-<<<<<<< HEAD
-                    
-=======
                     pc değişiklik
 
                     ibo
                 
->>>>>>> 99e17c5e79c7271fb097a72ba4436b617f6e3ed4
                     </div>
                     
                 </div>
